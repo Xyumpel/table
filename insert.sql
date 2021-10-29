@@ -84,63 +84,63 @@ INSERT INTO public.album(
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (1, 1, 'Mir_Moih_Snov', 2.53);
+	VALUES (1, 1, 'Mir_Moih_Snov', 173);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (2, 1, 'Otkroi_glaza ', 2.51);
+	VALUES (2, 1, 'Otkroi_glaza ', 171);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (3, 2, 'Tumani', 3.27);
+	VALUES (3, 2, 'Tumani', 207);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (4, 2, 'Nevernaya', 7.23);
+	VALUES (4, 2, 'Nevernaya', 443);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (5, 3, 'Privet_poka', 2.59);
+	VALUES (5, 3, 'Privet_poka', 179);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (6, 3, 'Navigator', 2.59);
+	VALUES (6, 3, 'Navigator', 179);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (7, 4, 'DeeneS', 3.01);
+	VALUES (7, 4, 'DeeneS', 181);
 	
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (8, 4, 'Deti_Nikotina', 4.21);
+	VALUES (8, 4, 'Deti_Nikotina', 261);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (9, 5, 'Kazantip', 1.51);
+	VALUES (9, 5, 'Kazantip', 111);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (10, 5, 'Legendvahen', 1.54);
+	VALUES (10, 5, 'Legendvahen', 114);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (11, 6, 'Chuchelo', 3.30);
+	VALUES (11, 6, 'Chuchelo', 210);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (12, 6, 'Socseti', 3.38);
+	VALUES (12, 6, 'Socseti', 218);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (13, 7, 'Golie_kamni', 3.15);
+	VALUES (13, 7, 'Golie_kamni', 195);
 
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (14, 7, 'Novyi_svet', 3.26);
+	VALUES (14, 7, 'Novyi_svet', 206);
 	
 INSERT INTO public.track(
 	id, album_id, name, length)
-	VALUES (15, 8, 'Balance', 3.52);
+	VALUES (15, 8, 'Balance', 232);
 
 INSERT INTO public.collection(
 	id, name, year_of_issue)
